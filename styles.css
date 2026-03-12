@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(D:starter.jpg);
+    color: black;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px 0px 50px;
+    height: 70px;
+    align-items: center;
+}
+.links{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+
+}
+.nav-1{
+      display: flex;
+      align-items: center;
+      gap: 120px;
+}
+.logo{
+    font-size: 30px;
+    font-weight: 600;
+    color: red;
+}
+.links li{
+    font-size: 19px;
+    color: blueviolet;
+
+}
+.icons{
+    display: flex;
+    gap: 35px;
+    
+}
+.icons i{
+    font-size: 25px;
+    color: black,;
+}
+.hero{
+    display: flex;
+    gap: 100px;
+    margin-top: 100px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+    align-items:center;
+}
+    
+.left1{
+    font-size: 30px;
+    font-style: italic;
+    color: red;
+}
+.left2{
+    font-size: 80px;
+    font-weight: bold;
+    color: hotpink;
+}
+.left3{
+    font-size: 26px;
+    font-style: italic;
+    color: orange;
+}
+.left4{
+    border: 2px solid black;
+    padding: 5px 15px;
+    border-radius: 30px;
+    color: blue;
+    
+}
+.food{
+    border-radius: 2px solid white;
+    border-radius: 50%;
+}
+#food{
+    background: url(D:fruits.jpg);
+    height:300;
+    width: 300px;
+    background-size: cover;
+    
+}
+.items{
+    display:flex;
+    padding-left: 150px;
+    margin-top: -50;
+    gap: 20px;
+}
+#food1,#food2,#food3,#food4{
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-size: cover;
+}
+#food1{
+    background: url(D:pizza.jpg);
+    background-size: cover;
+}
+#food2{
+    background: url(D:coffee.jpg);
+    background-size: cover;
+}
+#food3{
+    background: url(D:starter.jpg);
+    background-size: cover;
+}
+#food4{
+    background: url(D:pizza.jpg);
+    background-size: cover;
+}
