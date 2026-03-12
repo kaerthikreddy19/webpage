@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background:url(D:starter.jpg);
+    background:url(https://static.vecteezy.com/system/resources/previews/011/049/040/original/v1-black-gradient-background-diamond-shape-pattern-vector.jpg);
     color: black;
 }
 .navbar{
@@ -69,7 +69,7 @@ body{
     color: orange;
 }
 .left4{
-    border: 2px solid black;
+    border: 2px solid white;
     padding: 5px 15px;
     border-radius: 30px;
     color: blue;
@@ -80,7 +80,7 @@ body{
     border-radius: 50%;
 }
 #food{
-    background: url(D:fruits.jpg);
+    background: url(https://tse3.mm.bing.net/th/id/OIP.hrcl_y0O62AW3e_4d9iuYQHaE8?pid=Api&P=0&h=180);
     height:300;
     width: 300px;
     background-size: cover;
@@ -100,18 +100,18 @@ body{
     background-size: cover;
 }
 #food1{
-    background: url(D:pizza.jpg);
+    background: url(https://tse2.mm.bing.net/th/id/OIP._EMk7g6aF8KiXzFPtp10BwHaEJ?pid=Api&P=0&h=180);
     background-size: cover;
 }
 #food2{
-    background: url(D:coffee.jpg);
+    background: url(https://tse2.mm.bing.net/th/id/OIP.ZKR0BzjLzIB18hXfvlJn0QHaE7?pid=Api&P=0&h=180);
     background-size: cover;
 }
 #food3{
-    background: url(D:starter.jpg);
+    background: url(https://tse4.mm.bing.net/th/id/OIP.Zp7Cv2y9zyBsmvxQqh43tQHaEJ?pid=Api&P=0&h=180);
     background-size: cover;
 }
 #food4{
-    background: url(D:pizza.jpg);
+    background: url(https://media.easemytrip.com/media/Blog/India/636977607425696252/636977607425696252QYiiUU.jpg);
     background-size: cover;
 }
